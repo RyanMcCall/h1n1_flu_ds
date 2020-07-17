@@ -1,6 +1,7 @@
 ## Flu Shot Learning
 
 Author: Ryan McCall
+
 Description: This project aims to predict whether people got H1N1 and seasonal flu vaccines using information they shared about their backgrounds, opinions, and health behaviors.
 
 ## Project Organization 
